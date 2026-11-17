@@ -32,3 +32,11 @@ Não confunda **ganho projetado**, **valor em risco**, **custo evitável** e **r
 - [Governança](governanca.md), [Evidências](evidencias.md)
 - [Demonstração](demo.md), [Reprodução](reproducao.md)
 - [Recursos visuais](visuais.md)
+
+
+## Padrão editorial e evolução
+
+- [Guia editorial e voz](editorial-voice.md): tom, estrutura, terminologia e rastreabilidade.
+- [Plano de evolução](maturity-roadmap.md): prioridades P0, P1 e P2 com critérios de aceite.
+
+A documentação deve manter a distinção entre comportamento implementado, evidência observada, especificação arquitetural, simulação e proposta futura.
