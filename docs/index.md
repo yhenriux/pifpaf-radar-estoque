@@ -32,6 +32,7 @@ Não confunda **ganho projetado**, **valor em risco**, **custo evitável** e **r
 - [Governança](governanca.md), [Evidências](evidencias.md)
 - [Demonstração](demo.md), [Reprodução](reproducao.md)
 - [Recursos visuais](visuais.md)
+- [Auditoria de visualizações interativas](visualizacoes-interativas.md)
 
 
 ## Padrão editorial e evolução
