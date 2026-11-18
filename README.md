@@ -4,9 +4,9 @@ Demonstração independente de apoio a decisões de abastecimento em alimentos c
 
 [Abrir o painel semanal](https://radar-estoque-validade-pifpaf.yhenri-ux.chatgpt.site/#/painel) · [Central de alertas](https://radar-estoque-validade-pifpaf.yhenri-ux.chatgpt.site/#/alertas) · [Simulador](https://radar-estoque-validade-pifpaf.yhenri-ux.chatgpt.site/#/simulador)
 
-Com todos os centros e produtos e horizonte de 14 dias, o painel mostra **410.188 unidades com risco de vencimento**, **32.134 unidades de ruptura projetada**, **9 de 9 centros com risco** e **99,95% de registros válidos**. Os números são reproduzíveis no HTML da versão 43 do Sites, revisão `a20c9aa`.
+Com todos os centros e produtos e horizonte de 14 dias, o painel mostra **410.188 unidades com risco de vencimento**, **32.134 unidades de ruptura projetada**, **9 de 9 centros com risco** e **99,95% de registros válidos**. Os números são reproduzíveis no HTML da versão 44 do Sites, revisão `ee52a6f`.
 
-A navegação principal tem sete telas. O rodapé leva à jornada anterior de registro e acompanhamento de decisões. Este repositório reúne a documentação da demonstração hospedada.
+O menu lateral exibe o logotipo da Pif Paf Alimentos com o nome Radar de Estoque e Validade em um bloco abaixo. A navegação principal tem sete telas. O rodapé leva à jornada anterior de registro e acompanhamento de decisões. Este repositório reúne a documentação da demonstração hospedada.
 
 - [Guia das telas e roteiro](docs/index.md)
 - [Dados e indicadores](docs/dados.md)
