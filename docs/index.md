@@ -5,7 +5,7 @@
 | [Painel semanal](https://radar-estoque-validade-pifpaf.yhenri-ux.chatgpt.site/#/painel) | Compare indicadores e riscos regionais. Clique em uma barra ou cidade para aplicar o filtro. |
 | [Central de alertas](https://radar-estoque-validade-pifpaf.yhenri-ux.chatgpt.site/#/alertas) | Leia a lista priorizada e use **Investigar** para levar o produto e o centro ao simulador. |
 | [Simulador](https://radar-estoque-validade-pifpaf.yhenri-ux.chatgpt.site/#/simulador) | Compare origens, destinos, quantidades e custos hipotéticos. |
-| [Lotes e validade](https://radar-estoque-validade-pifpaf.yhenri-ux.chatgpt.site/#/lotes) | Abra os detalhes de um lote, navegue pelas páginas e exporte o recorte em CSV. |
+| [Lotes e validade](https://radar-estoque-validade-pifpaf.yhenri-ux.chatgpt.site/#/lotes) | Use **Detalhes** para abrir a ficha abaixo da linha do lote. Confira validade, estoque físico, reserva e disponibilidade. Navegue pelas páginas ou exporte o recorte em CSV. |
 | [Previsão de demanda](https://radar-estoque-validade-pifpaf.yhenri-ux.chatgpt.site/#/previsao) | Explore a demanda acumulada e o saldo projetado por data. |
 | [Pipelines e qualidade](https://radar-estoque-validade-pifpaf.yhenri-ux.chatgpt.site/#/pipelines) | Inspecione etapas ilustradas e a reconciliação da amostra gerada no navegador. |
 | [Arquitetura e métricas](https://radar-estoque-validade-pifpaf.yhenri-ux.chatgpt.site/#/metodologia) | Consulte definições e contratos apresentados pela interface. |

@@ -23,3 +23,13 @@ A validação identifica 11 duplicatas pela chave produto, centro, lote e data d
 Em Contagem, o pão de queijo de 1 kg tem 4.013, 5.001 e 3.003 unidades físicas. As reservas são 141, 103 e 75. O total disponível é 11.698. No horizonte padrão, a demanda acumulada desse recorte é 3.576. Em Betim, a ruptura projetada do mesmo produto é de 992 unidades.
 
 A lista gera até dois alertas por produto e centro, um por tipo de risco positivo. Ordena por volume dividido por prazo mais um. As faixas alta e média começam em 100 e 33. Para vencimento, o prazo mostrado usa o primeiro lote. Para ruptura, usa o horizonte, sem indicar o primeiro dia exato da falta.
+
+## Contratos da demonstração
+
+| Registro | Chave | Campos operacionais |
+| --- | --- | --- |
+| Venda diária | `sku`, `city`, `date` | `units` é um inteiro em unidades |
+| Lote | `sku`, `city`, `lot` e data-base da carga | `physical`, `reserved`, `available`, `expiry` e `expiryDays` |
+| Projeção diária | Produto, centro e dia no horizonte | Demanda diária, demanda acumulada, estoque restante, ruptura acumulada e sobras vencidas acumuladas |
+
+Exemplo de lote de Contagem para `PQ-1KG`: 4.013 unidades físicas − 141 reservadas = 3.872 disponíveis. O lote vence em 27/11/2026, 11 dias depois da data-base.
